@@ -15,6 +15,7 @@ function Pet() {
           <p>Age: PET AGE</p>
           <p>Weight: PET WEIGHT</p>
           <h1>testing</h1>
+          <h1>wow</h1>
         </div>
       </div>
       <div className="extra content">
